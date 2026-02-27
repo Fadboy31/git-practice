@@ -1,2 +1,8 @@
-My Git learning notes
-Git is powerful
+Git Learning Notes
+
+- Git is a version control system used to track project changes.
+- git init → initializes repository.
+- git add → stages files before commit.
+- git commit → saves changes in repository history.
+- git push → uploads project to GitHub.
+- Git is powerful for version control and collaboration.
