@@ -1,5 +1,2 @@
-Git is a version control system.
-git init initializes respository.
-git add stages files.
-git commit saves changes.
-git push uploads files.
+My Git learning notes
+Git is powerful
